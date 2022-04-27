@@ -37,6 +37,7 @@ The original Diamonds dataset was built for `R`, but has since found a home in `
 ```python
 import seaborn as sns
 sns.get_dataset_names()
+
 sns.load_dataset('diamonds')
 ```
 
