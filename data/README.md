@@ -17,8 +17,8 @@ A data frame with 53940 rows and 12 variables:
 
 - `carat`: Weight of the diamond (0.2–5.01). 
 - `cut`: Quality of the cut (`Fair`, `Good`, `Very Good`, `Premium`, `Ideal`).
-- `color`: Diamond color, from D (best) to J (worst).
-- `clarity`: A measurement of how clear the diamond is (I1 (worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (best)).
+- `color`: Diamond color, from `D` (best) to `J` (worst).
+- `clarity`: A measurement of how clear the diamond is (`I1` (worst), `SI2`, `SI1`, `VS2`, `VS1`, `VVS2`, `VVS1`, `IF` (best)).
 - `depth`:	Width of top of diamond relative to widest point (43–95).
 - `table`: Total depth percentage = z / mean(`x`, `y`) = 2 * `z` / (`x` + `y`) (43–79).	
 - `price`: Price in US dollars (\$326–\$18,823).	
