@@ -6,7 +6,7 @@ This is the classic Diamonds dataset.
 
 The description is provided from the `R` Documentation. 
 
-```r
+```R
 ?diamonds
 ```
 A dataset containing the prices and other attributes of almost 54,000 diamonds. Included is `volume` and `price_per_carat`, accordingly. The variables are as follows:
