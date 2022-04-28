@@ -20,7 +20,7 @@ A data frame with 53940 rows and 12 variables:
 - `color`: Diamond color, from `D` (best) to `J` (worst).
 - `clarity`: A measurement of how clear the diamond is (`I1` (worst), `SI2`, `SI1`, `VS2`, `VS1`, `VVS2`, `VVS1`, `IF` (best)).
 - `depth`:	Width of top of diamond relative to widest point (43–95).
-- `table`: Total depth percentage = z / mean(`x`, `y`) = 2 * `z` / (`x` + `y`) (43–79).	
+- `table`: Total depth percentage = `z` / mean(`x`, `y`) = 2 * `z` / (`x` + `y`) (43–79).	
 - `price`: Price in US dollars (\$326–\$18,823).	
 - `x`: Length in mm (0–10.74).
 - `y`: Width in mm (0–58.9).
