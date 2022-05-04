@@ -54,7 +54,7 @@ sns.load_dataset('diamonds')
 
 ### Found [here](https://github.com/kyle-w-brown/diamonds-prediction/blob/main/data/diamonds_cleaned.csv)
 
-The Diamonds dataset was cleaned by removing outliers from scatterplots and imputing the column means to `nan`. Columns `volume` and `price_per_carat` were created for further analysis and model features. 
+Columns `volume` and `price_per_carat` were created for further analysis and model features. 
 
 |   |  carat |    cut	  | color	| clarity	| depth	| table	| price	|  x   |   y	|   z  | volume | price_per_carat |
 |:-:|:------:|:--------:|:-----:|:-------:|:-----:|:-----:|:-----:|:----:|:----:|:----:|:------:|:----------------:|
