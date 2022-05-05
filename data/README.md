@@ -50,7 +50,7 @@ sns.load_dataset('diamonds')
 | 4	|  0.31	 |   Good	  |   J   |   SI2 	|  63.3	|  58.0	|  335	| 4.34 | 4.35 |	2.75 |
 
 
-## Cleaned Data
+## Updated Data
 
 ### Found [here](https://github.com/kyle-w-brown/diamonds-prediction/blob/main/data/diamonds_cleaned.csv)
 
