@@ -1,10 +1,15 @@
-# Diamonds Prediction
+# Diamonds Dataset
 
 This is the classic Diamonds dataset.
 
 ## Data Description 
 
-The dataset contains the prices and other attributes of almost 54,000 diamonds. Included is `volume` and `price_per_carat`, accordingly. The variables are as follows:
+The description is provided from the `R` Documentation. 
+
+```R
+?diamonds
+```
+A dataset containing the prices and other attributes of almost 54,000 diamonds. Included is `volume` and `price_per_carat`, accordingly. The variables are as follows:
 
 **Format**
 
@@ -46,14 +51,16 @@ sns.load_dataset('diamonds')
 
 ## Updated Data
 
-Columns `volume` were created for further analysis and model features. 
+### Found [here](https://github.com/kyle-w-brown/diamonds-prediction/blob/main/data/diamonds_cleaned.csv)
 
-|   |  carat |    cut	  | color	| clarity	| depth	| table	| price	|  x   |   y	|   z  | volume | 
+Columns `volume` and `price_per_carat` were created for further analysis and model features. 
+
+|   |  carat |    cut	  | color	| clarity	| depth	| table	| price	|  x   |   y	|   z  | volume |
 |:-:|:------:|:--------:|:-----:|:-------:|:-----:|:-----:|:-----:|:----:|:----:|:----:|:------:|
-| 0	|  0.23	 |   Ideal  |   E	  |   SI2 	|  61.5	|  55.0	|  326 	| 3.95 | 3.98 |	2.43 | 38.202 |    
-| 1	|  0.21	 |  Premium	|   E   |   SI1	  |  59.8	|  61.0	|  326  | 3.89 | 3.84 |	2.31 | 34.506 |    
-| 2	|  0.23	 |   Good	  |   E	  |   VS1   |  56.9	|  65.0	|  327  | 4.05 | 4.07 |	2.31 | 38.077 |    
-| 3	|  0.29	 |  Premium	|   I   |   VS2 	|  62.4	|  58.0	|  334  | 4.20 | 4.23 |	2.63 | 46.725 |    
-| 4	|  0.31	 |   Good	  |   J   |   SI2 	|  63.3	|  58.0	|  335	| 4.34 | 4.35 |	2.75 | 51.917 |    
+| 0	|  0.23	 |   Ideal  |   E	  |   SI2 	|  61.5	|  55.0	|  326 	| 3.95 | 3.98 |	2.43 | 38.202 |
+| 1	|  0.21	 |  Premium	|   E   |   SI1	  |  59.8	|  61.0	|  326  | 3.89 | 3.84 |	2.31 | 34.506 |
+| 2	|  0.23	 |   Good	  |   E	  |   VS1   |  56.9	|  65.0	|  327  | 4.05 | 4.07 |	2.31 | 38.077 |
+| 3	|  0.29	 |  Premium	|   I   |   VS2 	|  62.4	|  58.0	|  334  | 4.20 | 4.23 |	2.63 | 46.725 |
+| 4	|  0.31	 |   Good	  |   J   |   SI2 	|  63.3	|  58.0	|  335	| 4.34 | 4.35 |	2.75 | 51.917 |
 
 
