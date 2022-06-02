@@ -2,6 +2,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/192CBS5JNe31J1Pw13xyBycKOU8KJ5g7-?usp=sharing)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kyle-w-brown/diamonds-prediction/HEAD)
+
 ## Overview
 
 This is a analysis of the classic `diamonds` dataset. This analysis was designed to assist diamond brokers with a way to price diamonds. 
