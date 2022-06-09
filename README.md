@@ -19,16 +19,11 @@ The juptyer notebook includes:
 
 # Model Results
 
-|           Model                         |    r2    |
-|:----------------------------------------|:--------:|
-|        Linear_Regression	              |  85.34%	 |   
-|       Multiple_Linear_Regression       	|  90.59%	 |  
-|          XGBoost_3_AutoML_1	            |  98.03%	 |  
-|            GBM_Estimator              	|  98.12%	 |  
-| StackedEnsemble_BestOfFamily_2_AutoML_1	|  98.24%	 |
-|           GBM_2_AutoML                 	|  98.25%	 |  
-| StackedEnsemble_BestOfFamily_2_AutoML_2	|  98.29%	 |  
-|          Random_Forest	                |  99.11%	 |
+![image](https://user-images.githubusercontent.com/50603392/172864023-a2773a6b-1434-4e29-940a-153d74118230.png)
+
+
+
+
 
 # Diamonds Tableau Dashboard
 
