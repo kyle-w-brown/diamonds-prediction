@@ -6,7 +6,7 @@
 
 ## Overview
 
-This is a analysis of the classic `diamonds` dataset. This analysis was designed to assist diamond brokers with a way to price diamonds. 
+This is an analysis of the classic `diamonds` dataset. This analysis was designed as a pricing mechanism to assist with price diamonds. 
 
 The juptyer notebook includes:
 
