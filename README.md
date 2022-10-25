@@ -1,4 +1,4 @@
-# Diamonds Prediction
+# Diamonds Price Prediction
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/192CBS5JNe31J1Pw13xyBycKOU8KJ5g7-?usp=sharing)
 
